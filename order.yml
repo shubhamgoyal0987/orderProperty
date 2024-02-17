@@ -1,3 +1,7 @@
+my:
+  property: "{cipher}21870399b9aea7b9d64dbf0c3c2ca4a53d156efd946a6959bb840b0c4390522c"
+  property2: it is second default hathi2
+
 product:
   api:
     url: http://localhost:8091/api/product/{productId}
